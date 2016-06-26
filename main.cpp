@@ -5,15 +5,9 @@
  * Created on 27 июня 2016 г., 1:48
  */
 
-#include <cstdlib>
+#include "head.h"
 
-using namespace std;
-
-/*
- * 
- */
 int main(int argc, char** argv) {
 
     return 0;
 }
-
