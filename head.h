@@ -6,3 +6,5 @@
  */
 
 using namespace std;
+
+bool isPrime (unsigned long a);
